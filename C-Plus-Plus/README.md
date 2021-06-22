@@ -364,7 +364,7 @@
 - [Manacher's Algorithm](search/Manacher's_Algorithm.cp)
 - [Randomized Select Search](search/Randomized_Select.cpp)
 - [Staircase Search](search/Staircase_Search.cpp)
-- [Tenary Search](search/TernarySearch.cpp)
+- [Ternary Search](search/TernarySearch.cpp)
 - [Fibonacci Search](search/fibonacci_search.cpp)
 - [Unbounded Binary Search](search/Unbounded_Binary_Search.cpp)
 - [Sublist Search](search/sublist_Search.cpp)
